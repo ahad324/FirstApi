@@ -1,0 +1,6 @@
+mongodb+srv://royalgujjar813:bANekX9X4XkRUerc@learningmongo.pd0zg.mongodb.net/LearningMongo?retryWrites=true&w=majority&appName=LearningMongo
+
+
+
+<============ MongoDB Atlas ============>
+royalgujjar813     bANekX9X4XkRUerc

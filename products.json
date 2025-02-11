@@ -1,0 +1,67 @@
+[
+  {
+    "name": "iPhone 14 Pro Max",
+    "price": 1199,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold 4",
+    "price": 1799,
+    "featured": true,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell XPS 13 Plus",
+    "price": 1399,
+    "company": "dell"
+  },
+  {
+    "name": "Mi 12 Pro",
+    "price": 749,
+    "company": "mi"
+  },
+  {
+    "name": "MacBook Pro 16",
+    "price": 2499,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy Tab S8",
+    "price": 899,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "price": 699,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Pad 5",
+    "price": 499,
+    "company": "mi"
+  },
+  {
+    "name": "Apple Watch Series 8",
+    "price": 399,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy Watch 5",
+    "price": 349,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Latitude 7420",
+    "price": 1899,
+    "featured": true,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Smart Band 7",
+    "price": 49,
+    "company": "mi"
+  }
+]
